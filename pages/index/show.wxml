@@ -1,0 +1,9 @@
+
+<!-- 内容区域 -->
+<view class="content">
+<swiper>
+<swiper-item ><image src="https://www.itying.com/images/flutter/1.png" mode="widthFix"></image> </swiper-item>
+<swiper-item ><image src=https://www.itying.com/images/flutter/2.png"  mode="widthFix"></image> </swiper-item>
+<swiper-item ><image src="https://www.itying.com/images/flutter/3.png"  mode="widthFix"></image> </swiper-item>
+</swiper>
+</view>

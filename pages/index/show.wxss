@@ -1,0 +1,7 @@
+page{
+  display: flex;
+  flex-direction: column;
+  background: #17181a;
+  color: #ccc;
+  height: 100%;
+}

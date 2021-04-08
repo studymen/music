@@ -1,0 +1,57 @@
+
+<scroll-view class="content-info" scroll-y="true">
+<!-- 轮播图 -->
+<swiper class="content-info-slide" indicator-dots="true" indicator-color="rgba(f,f,f,.3)" autoplay="true"       interval="2000" indicator-active-color="#ffffff" duration="3000" circular="true">
+  <swiper-item>  <image src="../images/8.jpeg" mode="widthFix"></image>
+  </swiper-item>
+  <swiper-item> <image src="../images/6.jpeg"  mode="widthFix"></image>
+  </swiper-item>
+  <swiper-item>  <image src="../images/7.jpeg"  mode="widthFix"></image>
+    </swiper-item>
+</swiper>
+<!-- 功能按钮 -->
+<view class="content-info-portal">
+  <view>
+    <image src="../images/2.jpg"></image>
+    <text>懒人听书</text>
+  </view>
+  <view>
+    <image src="../images/4.jpeg"></image>
+    <text>每日电台</text>
+  </view>
+  <view>
+    <image src="../images/5.jpeg"></image>
+    <text>分类</text>
+  </view>
+</view>
+<!-- 热门音乐 -->
+<view class="content-info-list">
+  <view class="list-title">推荐歌曲</view>
+  <view class="list-inner">
+    <view class="list-item">
+      <image src="../images/6.jpeg"></image>
+      <view>牵丝戏</view>
+    </view>
+    <view class="list-item">
+      <image src="../images/3.jpg"></image>
+      <view>是风动</view>
+    </view>
+    <view class="list-item">
+      <image src="../images/13.jpeg"></image>
+      <view>桃花劫</view>
+    </view>
+    <view class="list-item">
+      <image src="../images/10.jpeg"></image>
+      <view>烟雨江南</view>
+    </view>
+    <view class="list-item">
+      <image src="../images/11.jpeg"></image>
+      <view>晚夜微雨问海棠</view>
+    </view>
+    <view class="list-item">
+      <image src="../images/12.jpeg"></image>
+      <text>何以歌</text>
+    </view>
+  </view>
+</view>
+</scroll-view>
